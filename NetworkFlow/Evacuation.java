@@ -1,3 +1,33 @@
+/*
+Sample 1.
+Input:
+5 7
+1 2 2
+2 5 5
+1 3 6
+3 4 2
+4 5 1
+3 2 3
+2 4 1
+Output:
+6
+
+
+Sample 2.
+Input:
+4 5
+1 2 10000
+1 3 10000
+2 3 1
+3 4 10000
+2 4 10000
+Output:
+20000
+
+
+
+*/
+
 import java.io.*;
 import java.util.*;
 
