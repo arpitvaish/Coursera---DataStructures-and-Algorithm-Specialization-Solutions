@@ -1,3 +1,24 @@
+/*
+Sample 1.
+Input:
+3 4
+1 1 0 1
+0 1 0 0
+0 0 0 0
+Output:
+1 2 -1
+
+
+Sample 2.
+Input:
+2 2
+1 1
+1 0
+Output:
+2 1
+
+*/
+
 import java.io.*;
 import java.util.*;
 
