@@ -3,6 +3,21 @@
 This section contains solutions of courses offered by Unversity of San Diego on Data Structures and Algorithms. Below are list of courses covered:
 ## Algorithmic Toolbox
 ## Advanced Algorithms
+   
+## String Algorithms
+   ### Week 1
+       - Suffix Tree (Ukkonen's)
+       - Trie
+       - TrieMatching
+   ### Week 2
+       - BurrowWheelerTransform
+       - InverseBWT
+   
+   ### Week 3 & 4
+       - Construct Suffix Array of A Long String
+       - KnuthMorrisPrat
+   
+## Algorithms on Graphs
    ### Week 1
        - Connected Components
        - Reachability
@@ -16,5 +31,3 @@ This section contains solutions of courses offered by Unversity of San Diego on 
    ### Week 4
        - (Minimum cost of flight) Dijktras
        - Detecting Anomalies in Currency Exchange (Arbitrage)
-## String Algorithms
-## Algorithms on Graphs
