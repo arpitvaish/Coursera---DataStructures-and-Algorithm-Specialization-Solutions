@@ -1,31 +1,4 @@
-/*
-Program to detected cycle in direced graph
 
-Sample 1.
-Input:
-4 4
-1 2
-4 1
-2 3
-3 1
-Output:
-1
-Sample 2.
-Input:
-5 7
-1 2
-2 3
-1 3
-3 4
-1 4
-2 5
-3 5
-
-Output:
-0
-
-
-*/
 
 
 import java.io.BufferedReader;
@@ -37,7 +10,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.StringTokenizer;
-public class APlusB {
+public class Acyclicity {
 
 	private static int acyclic(ArrayList<Integer>[] adj) {
 		Set<Integer> whiteSet = new HashSet<>();
