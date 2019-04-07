@@ -1,37 +1,3 @@
-/*
-Problem: Computing the Minimum Number of Flight Segments
-
-Input Format. A graph is given in the standard format. The next line contains two vertices u and v.
-Constraints. 2 ≤ n ≤ 105
-, 0 ≤ m ≤ 105
-, u 6= v, 1 ≤ u, v ≤ n.
-Output Format. Output the minimum number of edges in a path from u to v, or −1 if there is no path.
-
-Sample 1.
-Input:
-4 4
-1 2
-4 1
-2 3
-3 1
-2 4
-Output:
-2
-
-
-Sample 2.
-Input:
-5 4
-5 2
-1 3
-3 4
-1 4
-3 5
-Output:
--1
-
-
-*/
 
 
 import java.util.ArrayList;
