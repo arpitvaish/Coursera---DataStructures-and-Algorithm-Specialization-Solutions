@@ -2,6 +2,11 @@
 
 This section contains solutions of courses offered by Unversity of San Diego on Data Structures and Algorithms. Below are list of courses covered:
 ## Algorithmic Toolbox
+   ### Divide and Conquer
+      - Check brackets in the code
+## Data Structure
+   ### Week 1
+       - 
 ## Advanced Algorithms
    
 ## String Algorithms
